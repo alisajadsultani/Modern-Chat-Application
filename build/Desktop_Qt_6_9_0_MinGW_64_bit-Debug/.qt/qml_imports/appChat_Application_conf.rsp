@@ -1,0 +1,14 @@
+-rootPath
+C:/Projects_with_GUI/Chat_Application
+-cmake-output
+-output-file
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appChat_Application_conf.cmake
+-importPath
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Chat_Application
+-importPath
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Chat_Application.qrc
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appChat_Application_raw_qml_0.qrc

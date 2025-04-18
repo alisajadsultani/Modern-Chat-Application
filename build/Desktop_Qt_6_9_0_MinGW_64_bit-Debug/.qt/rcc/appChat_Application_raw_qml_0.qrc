@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/Chat_Application/">
+    <file alias="Main.qml">C:/Projects_with_GUI/Chat_Application/Main.qml</file>
+    <file alias="LoginWindow.qml">C:/Projects_with_GUI/Chat_Application/LoginWindow.qml</file>
+    <file alias="RegisterWindow.qml">C:/Projects_with_GUI/Chat_Application/RegisterWindow.qml</file>
+    <file alias="resources.qrc">C:/Projects_with_GUI/Chat_Application/resources.qrc</file>
+  </qresource>
+</RCC>
+

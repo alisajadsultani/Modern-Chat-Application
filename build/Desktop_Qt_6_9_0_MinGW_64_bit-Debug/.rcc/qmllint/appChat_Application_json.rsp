@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.0/mingw_64/qml
+--resource
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_Chat_Application.qrc
+--resource
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appChat_Application_raw_qml_0.qrc
+C:/Projects_with_GUI/Chat_Application/Main.qml
+C:/Projects_with_GUI/Chat_Application/LoginWindow.qml
+C:/Projects_with_GUI/Chat_Application/RegisterWindow.qml
+--json
+C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appChat_Application_qmllint.json

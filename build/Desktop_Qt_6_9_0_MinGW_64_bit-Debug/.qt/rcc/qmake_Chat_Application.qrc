@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Chat_Application">
+    <file alias="qmldir">C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Chat_Application/qmldir</file>
+  </qresource>
+</RCC>
+

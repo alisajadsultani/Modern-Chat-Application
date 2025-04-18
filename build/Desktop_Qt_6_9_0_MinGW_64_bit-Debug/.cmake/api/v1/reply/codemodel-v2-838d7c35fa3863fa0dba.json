@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-208132b98bb2c0f29a68.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chat_Application",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-6b7be0a9b216e368a3a4.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2781c41dcf85ff6cfa71.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-4fb759e60fdac9ad0aea.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e7a310addfc3bba8bfd8.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-2a19f358b5219d95d3af.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application-Debug-e034afff9e3d44e8c6f1.json",
+					"name" : "appChat_Application",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_autogen-Debug-a3293833f33a3e8ce833.json",
+					"name" : "appChat_Application_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_autogen_timestamp_deps-Debug-84ed36e61bebc5ad6bb6.json",
+					"name" : "appChat_Application_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_copy_qml-Debug-5e25e0c921f39310fa80.json",
+					"name" : "appChat_Application_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_copy_res-Debug-c347219dec418026be22.json",
+					"name" : "appChat_Application_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_qmlimportscan-Debug-e94e1302cbd1897cb742.json",
+					"name" : "appChat_Application_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_qmllint-Debug-8da4630f313f536f9eb2.json",
+					"name" : "appChat_Application_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_qmllint_json-Debug-e83a76a80f74d5a3436f.json",
+					"name" : "appChat_Application_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_qmllint_module-Debug-2f37fe26b757eb80ce7d.json",
+					"name" : "appChat_Application_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appChat_Application_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appChat_Application_qmltyperegistration-Debug-05ea0943eaf842076b3f.json",
+					"name" : "appChat_Application_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appChat_Application_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appChat_Application_aotstats_target-Debug-be1ea6e7d0c0124da11c.json",
+					"name" : "module_appChat_Application_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects_with_GUI/Chat_Application/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "C:/Projects_with_GUI/Chat_Application"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

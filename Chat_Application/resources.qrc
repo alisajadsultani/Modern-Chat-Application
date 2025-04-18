@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>login_page.png</file>
-        <file>RegisterWindow.qml</file>
-    </qresource>
-</RCC>
