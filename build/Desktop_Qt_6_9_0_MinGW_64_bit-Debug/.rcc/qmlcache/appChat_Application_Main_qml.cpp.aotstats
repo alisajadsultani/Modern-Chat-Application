@@ -5,203 +5,507 @@
                 "entries": [
                     {
                         "codegenSuccessfull": false,
-                        "column": 5,
-                        "durationMicroseconds": 176,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: messageInput",
-                        "functionName": "sendMessage",
-                        "line": 134
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 16,
-                        "durationMicroseconds": 141,
-                        "errorMessage": "",
-                        "functionName": "width",
+                        "column": 30,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "Cannot access value for name dbManager",
+                        "functionName": "aboutMe",
                         "line": 18
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 17,
-                        "durationMicroseconds": 63,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 19
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: messageInput",
+                        "functionName": "sendMessage",
+                        "line": 521
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 81,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 21
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 20,
-                        "durationMicroseconds": 31,
-                        "errorMessage": "",
-                        "functionName": "width",
-                        "line": 25
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 21,
-                        "durationMicroseconds": 34,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 26
+                        "functionName": "fill",
+                        "line": 24
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 69,
                         "errorMessage": "",
-                        "functionName": "width",
-                        "line": 30
+                        "functionName": "onClicked",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 28
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
-                        "functionName": "height",
-                        "line": 31
+                        "functionName": "bottom",
+                        "line": 39
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 28,
-                        "durationMicroseconds": 30,
+                        "column": 23,
+                        "durationMicroseconds": 39,
                         "errorMessage": "",
-                        "functionName": "width",
-                        "line": 35
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 31,
-                        "durationMicroseconds": 144,
-                        "errorMessage": "",
-                        "functionName": "text",
+                        "functionName": "left",
                         "line": 40
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 38,
-                        "durationMicroseconds": 61,
+                        "column": 25,
+                        "durationMicroseconds": 65,
                         "errorMessage": "",
-                        "functionName": "leftPadding",
-                        "line": 44
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 31,
-                        "durationMicroseconds": 17,
-                        "errorMessage": "Cannot access value for name model",
-                        "functionName": "text",
+                        "functionName": "radius",
                         "line": 49
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 32,
-                        "durationMicroseconds": 30,
-                        "errorMessage": "",
-                        "functionName": "width",
-                        "line": 58
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 33,
-                        "durationMicroseconds": 35,
-                        "errorMessage": "",
-                        "functionName": "height",
-                        "line": 59
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 42,
-                        "durationMicroseconds": 47,
+                        "column": 26,
+                        "durationMicroseconds": 46,
                         "errorMessage": "",
                         "functionName": "top",
-                        "line": 67
+                        "line": 55
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 43,
-                        "durationMicroseconds": 43,
+                        "column": 27,
+                        "durationMicroseconds": 32,
                         "errorMessage": "",
                         "functionName": "left",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "Cannot access value for name profileImage",
+                        "functionName": "source",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "fill",
                         "line": 68
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 35,
-                        "durationMicroseconds": 15,
-                        "errorMessage": "Cannot access value for name model",
+                        "column": 23,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "Cannot access value for name dbManager",
                         "functionName": "text",
-                        "line": 74
+                        "line": 79
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 53,
-                        "durationMicroseconds": 37,
+                        "column": 26,
+                        "durationMicroseconds": 63,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 77
+                        "functionName": "top",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 174,
+                        "errorMessage": "Cannot access value for name dbManager",
+                        "functionName": "text",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 98
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot access value for name aboutMe",
+                        "functionName": "text",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 108
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 54,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 87
+                        "line": 110
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for width: The property does not exist",
+                        "functionName": "width",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 53,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for pressed: The signal does not exist",
+                        "functionName": "onPressed",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for released: The signal does not exist",
+                        "functionName": "onReleased",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for top: The property does not exist",
+                        "functionName": "top",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for left: The property does not exist",
+                        "functionName": "left",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 22,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 142
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 19,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 163
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 168
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 178
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "width",
-                        "line": 92
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 191
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 40,
                         "errorMessage": "",
-                        "functionName": "height",
-                        "line": 93
+                        "functionName": "radius",
+                        "line": 199
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 32,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not compile binding for width: The property does not exist",
-                        "functionName": "width",
-                        "line": 99
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 46,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not compile binding for horizontalAlignment: The property does not exist",
-                        "functionName": "horizontalAlignment",
-                        "line": 104
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 41,
-                        "durationMicroseconds": 54,
-                        "errorMessage": "method sendMessage cannot be resolved.",
-                        "functionName": "onPressed",
-                        "line": 114
+                        "column": 33,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name profileImage",
+                        "functionName": "source",
+                        "line": 206
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 41,
-                        "durationMicroseconds": 26,
+                        "column": 35,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
-                        "functionName": "onPressed",
-                        "line": 114
+                        "functionName": "fillMode",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for x: The property does not exist",
+                        "functionName": "x",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for y: The property does not exist",
+                        "functionName": "y",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for clicked: The signal does not exist",
+                        "functionName": "onClicked",
+                        "line": 250
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for clicked: The signal does not exist",
+                        "functionName": "onClicked",
+                        "line": 255
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 13,
+                        "errorMessage": "Cannot access value for name showPopup",
+                        "functionName": "visible",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot access value for name showPopup",
+                        "functionName": "opacity",
+                        "line": 277
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 14,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainButton",
+                        "functionName": "horizontalCenter",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 10,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainButton",
+                        "functionName": "bottom",
+                        "line": 272
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 10,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: mainButton",
+                        "functionName": "left",
+                        "line": 273
                     },
                     {
                         "codegenSuccessfull": false,
@@ -209,7 +513,519 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not compile signal handler for clicked: The signal does not exist",
                         "functionName": "onClicked",
-                        "line": 127
+                        "line": 286
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for clicked: The signal does not exist",
+                        "functionName": "onClicked",
+                        "line": 299
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for pressed: The signal does not exist",
+                        "functionName": "onPressed",
+                        "line": 342
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for released: The signal does not exist",
+                        "functionName": "onReleased",
+                        "line": 343
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for bottom: The property does not exist",
+                        "functionName": "bottom",
+                        "line": 317
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 330
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 44,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 331
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 20,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 332
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 337
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name showPopup",
+                        "functionName": "onClicked",
+                        "line": 338
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 336
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot access value for name dbManager",
+                        "functionName": "text",
+                        "line": 349
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 354
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 355
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "Cannot access value for name dbManager",
+                        "functionName": "text",
+                        "line": 363
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 367
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 368
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 380
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 381
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot access value for name aboutMe",
+                        "functionName": "text",
+                        "line": 389
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "wrapMode",
+                        "line": 390
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 393
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 395
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 396
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 405
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 406
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 408
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 412
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 21,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 413
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 417
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 418
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 422
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 427
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "leftPadding",
+                        "line": 431
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 17,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "text",
+                        "line": 436
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 445
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 33,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 446
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 454
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 455
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot access value for name model",
+                        "functionName": "text",
+                        "line": 461
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 464
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 474
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 479
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 480
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for width: The property does not exist",
+                        "functionName": "width",
+                        "line": 486
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile binding for horizontalAlignment: The property does not exist",
+                        "functionName": "horizontalAlignment",
+                        "line": 491
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "method sendMessage cannot be resolved.",
+                        "functionName": "onPressed",
+                        "line": 501
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "onPressed",
+                        "line": 501
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not compile signal handler for clicked: The signal does not exist",
+                        "functionName": "onClicked",
+                        "line": 514
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 534
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 76,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 535
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 539
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 542
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 543
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 556
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 549
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 550
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 29,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name profileImage",
+                        "functionName": "source",
+                        "line": 564
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 566
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 565
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 571
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 572
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 570
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "nameFilters",
+                        "line": 582
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "Cannot find name profileImage",
+                        "functionName": "onAccepted",
+                        "line": 583
                     }
                 ],
                 "filepath": "C:/Projects_with_GUI/Chat_Application/Main.qml"

@@ -12,7 +12,7 @@ ApplicationWindow {
 
     Image {
         id: backgroun_image
-        source: "https://i.redd.it/new-and-slightly-older-discord-login-screen-as-a-png-v0-nnd20frfve3d1.png?width=1600&format=png&auto=webp&s=53d372d13bd1af47f24b8069e239aa3870fc6b78"
+        source: "login_page"
         anchors.fill: parent
         fillMode: Image.PreserveAspectCrop
     }

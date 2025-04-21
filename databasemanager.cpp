@@ -81,6 +81,77 @@ QString DataBaseManager::getDisplayName(const QString &email) {
     return "Unknown User";
 }
 
+QString DataBaseManager::getUserName(const QString &email) {
+    if (!db.isOpen()) {
+        qDebug() << "Database is not open";
+        return "";
+    }
+    QSqlQuery query;
+    query.prepare("SELECT username FROM Users WHERE email = :email");
+    query.bindValue(":email", email);
+
+    if (!query.exec()) {
+        qDebug() << "Query execution failed:" << query.lastError().text();
+        return "Unknown User";
+    }
+
+
+    if (query.next()) {
+        QString userName = query.value(0).toString();
+        qDebug() << "Username Name Retrieved:" << userName;
+        return userName;
+    } else {
+        qDebug() << "No user found for email:" << email;
+    }
+
+    return "Unknown User";
+}
+
+void DataBaseManager::setAboutMe(const QString &email, const QString &about_me) {
+    if (!db.isOpen()) {
+        qDebug() << "Database is not open";
+        return;
+    }
+
+    QSqlQuery query;
+    query.prepare("UPDATE Users SET about_me = :about_me WHERE email = :email");
+    query.bindValue(":about_me", about_me);
+    query.bindValue(":email", email);
+
+    if (!query.exec()) {
+        qDebug() << "Query execution failed: " << query.lastError().text();
+        return;
+    } else {
+        qDebug() << "About added successfully";
+    }
+}
+
+QString DataBaseManager::getAboutMe(const QString &email) {
+    if (!db.isOpen()) {
+        qDebug() << "Database is not open";
+        return "";
+    }
+    QSqlQuery query;
+    query.prepare("SELECT about_me FROM Users WHERE email = :email");
+    query.bindValue(":email", email);
+
+    if (!query.exec()) {
+        qDebug() << "Query execution failed:" << query.lastError().text();
+        return "Unknown User";
+    }
+
+
+    if (query.next()) {
+        QString aboutMe = query.value(0).toString();
+        qDebug() << "Username Name Retrieved:" << aboutMe;
+        return aboutMe;
+    } else {
+        qDebug() << "No user found for email:" << email;
+    }
+
+    return "";
+}
+
 DataBaseManager::~DataBaseManager() {
     if(db.isOpen()) {
         db.close();

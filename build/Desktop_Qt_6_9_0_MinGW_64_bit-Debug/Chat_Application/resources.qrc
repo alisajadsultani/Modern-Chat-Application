@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>login_page.png</file>
         <file>RegisterWindow.qml</file>
+        <file>ProfilePicture.qml</file>
     </qresource>
 </RCC>

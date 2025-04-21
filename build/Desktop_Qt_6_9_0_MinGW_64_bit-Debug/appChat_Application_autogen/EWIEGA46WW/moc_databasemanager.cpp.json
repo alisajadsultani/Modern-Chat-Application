@@ -36,11 +36,27 @@
                             "type": "QString"
                         },
                         {
-                            "name": "password",
+                            "name": "about_me",
                             "type": "QString"
                         }
                     ],
                     "index": 1,
+                    "name": "setAboutMe",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "email",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "password",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
                     "name": "loginUser",
                     "returnType": "bool"
                 },
@@ -52,8 +68,32 @@
                             "type": "QString"
                         }
                     ],
-                    "index": 2,
+                    "index": 3,
                     "name": "getDisplayName",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "email",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "getAboutMe",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "email",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "getUserName",
                     "returnType": "QString"
                 }
             ],

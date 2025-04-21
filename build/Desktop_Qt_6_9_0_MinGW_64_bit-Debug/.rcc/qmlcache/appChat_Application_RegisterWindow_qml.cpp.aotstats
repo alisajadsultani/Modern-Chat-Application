@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 398,
+                        "durationMicroseconds": 322,
                         "errorMessage": "Cannot access value for name dbManager",
                         "functionName": "registerFunc",
                         "line": 224
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 95,
                         "errorMessage": "",
                         "functionName": "fillMode",
                         "line": 16
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 15
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 23,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 24
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 31
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 32
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 87,
+                        "durationMicroseconds": 74,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 38
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 64,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 39
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 63,
+                        "durationMicroseconds": 47,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 41
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 39,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 42
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 29,
-                        "durationMicroseconds": 252,
+                        "durationMicroseconds": 255,
                         "errorMessage": "method registerFunc cannot be resolved.",
                         "functionName": "onPressed",
                         "line": 160
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 29,
                         "errorMessage": "",
                         "functionName": "onPressed",
                         "line": 160
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 42,
-                        "durationMicroseconds": 50,
+                        "durationMicroseconds": 47,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 183
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 35,
                         "errorMessage": "",
                         "functionName": "verticalAlignment",
                         "line": 184
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 69,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 185
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 38,
+                        "durationMicroseconds": 51,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 190
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 172,
+                        "durationMicroseconds": 217,
                         "errorMessage": "method registerFunc cannot be resolved.",
                         "functionName": "onClicked",
                         "line": 191
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 52,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 189
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 49,
                         "errorMessage": "",
                         "functionName": "cursorShape",
                         "line": 207
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 182,
+                        "durationMicroseconds": 157,
                         "errorMessage": "Type call to method createObject, returning QObject does not have a property show for calling",
                         "functionName": "onClicked",
                         "line": 208
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 42,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 206

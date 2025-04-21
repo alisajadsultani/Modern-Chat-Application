@@ -8,13 +8,13 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
     QQmlApplicationEngine engine;
 
-    // ✅ Create instances of DatabaseManager and NetworkManager
+    // Create instances of DatabaseManager and NetworkManager
     DataBaseManager dbManager;
 
-    // ✅ Register them in QML
+    // Register them in QML
     engine.rootContext()->setContextProperty("dbManager", &dbManager);
 
-    // ✅ Load Main.qml
+    // Load Main.qml
     engine.load(QUrl(QStringLiteral("file:///C:/Projects_with_GUI/Chat_Application/Main.qml")));
 
     if (engine.rootObjects().isEmpty())
